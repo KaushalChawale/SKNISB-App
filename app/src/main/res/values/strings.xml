@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">SKNISB App</string>
+    <string name="members">Members</string>
+    <string name="volunteers">Volunteers</string>
+    <string name="participants">Participants</string>
+    <string name="todo">TODO</string>
+    <string name="todo1">TODO</string>
+    <string name="todo2">TODO</string>
+    <string name="hello">Hello,</string>
+    <string name="sign_up">Sign up!</string>
+    <string name="sign_up_c">SIGN UP!</string>
+    <string name="we_are_happy_to_see_you_here">We are happy to see you here!</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="email">Email</string>
+    <string name="name">Name</string>
+    <string name="password">Password</string>
+    <string name="username">Username</string>
+    <string name="already_have_an_account">Already have an account?</string>
+    <string name="sign_in">Sign in!</string>
+    <string name="sign_in_c">SIGN IN</string>
+    <string name="login_footer">Don\'t have an account?</string>
+</resources>
